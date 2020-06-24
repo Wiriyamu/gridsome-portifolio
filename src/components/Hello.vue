@@ -19,7 +19,7 @@
                 width="75"
                 class=""
                 src="../assets/oficialAvatar.png"
-                alt="Avatar"
+                alt="Meu Avatar"
               />
             </figure>
           </vs-sidebar-item>
