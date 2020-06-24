@@ -4,7 +4,7 @@ const postcssPlugins = [
 ]
 
 module.exports = {
-  siteName: '',
+  siteName: "Willian Silva | Desenvolvedor Front-End",
   plugins: [],
   css: {
     loaderOptions: {
